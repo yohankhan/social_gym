@@ -14,7 +14,7 @@ class Feed extends Component {
 		return (
 			<View style={{ flex: 1, flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
 				<Text> Feed </Text>
-				<Button title="Choose Photo" />
+				<Button title="Select Photo" />
 				<Button title="upload Photo" />
 			</View>
 		);
