@@ -15,4 +15,4 @@ var Config = {
 
   export const db = app.database();
   export const auth = app.auth();
-  export const str = app.storage();
+  export const storage = app.storage();
